@@ -1,7 +1,11 @@
-*.css
 *.net
+<<<<<<< HEAD
 <<<<<<< HEAD
 *.java
 i.net
 =======
 >>>>>>> branch2
+=======
+*.css
+*.txt
+>>>>>>> branch1
